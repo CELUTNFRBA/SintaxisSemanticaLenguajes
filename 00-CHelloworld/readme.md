@@ -6,6 +6,7 @@
 **Apellido**: Lencina <br>
 **Nombre**: César Emanuel <br>
 **Número y título del trabajo**: 0 "Hello, World!” en C <br>
+**Compilador utilizado**: gcc-11 <br>
 **Transcripción del enunciado**: <br><br> 
   1. Cuenta en GitHub <br>
     a. Si no tiene, cree una cuenta GitHub.<br>
